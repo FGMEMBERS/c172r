@@ -12,7 +12,6 @@ Started October 23 2001 by John Check, fgpanels@rockfish.net
  <sim>
 
   <description>Cessna 172R (JSBSim, 2D panel).</description>
-  <author>Tony Peden, David Megginson, John Check</author>
 
   <!-- Use a 2D instrument panel -->
  
