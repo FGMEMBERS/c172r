@@ -6,8 +6,6 @@
   CVS Version: $Id$
 
   Function: Models a 1997 Cessna 172R
-  Notes:    Try running FlightGear using this command line,
-            fgfs --aircraft=c172r
 -->
 
   <METRICS>
