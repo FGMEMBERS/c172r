@@ -3,5 +3,6 @@
 <PropertyList include="c172r-3d-jsbsim-set.xml">
  <sim>
   <description>Alias for c172r-3d-jsbsim.</description>
+  <author>David Megginson (3D), authors of 2D c172r</author>
  </sim>
 </PropertyList>
