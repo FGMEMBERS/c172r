@@ -9,8 +9,7 @@ Common configuration for all C172R aircraft.
 
  <sim>
   <description>Cessna 172R</description>
-  <author>Tony Peden (FDM), David Megginson (3D Models), John Check (2D Instrume
-nts)</author>
+  <author>Tony Peden (FDM), David Megginson (3D Models), John Check (2D Instruments)</author>
   <status>aerly-production</status>
 
   <flight-model archive="y">jsb</flight-model>
@@ -52,6 +51,13 @@ nts)</author>
   <sound>
    <path archive="y">Aircraft/c172r/c172-sound.xml</path>
   </sound>
+
+  <help>
+    <line>Maximum speed at sea level: 123 kt</line>
+    <line>Cruise, 80% power at 8,000 ft: 122 kt (TAS?)</line>
+    <line>Stall speed, power off, no flaps: 51 KCAS</line>
+    <line>Stall speed, power off, full flaps: 47 KCAS</line>
+  </help>
 
  </sim>
   
