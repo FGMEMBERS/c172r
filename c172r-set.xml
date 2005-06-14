@@ -44,7 +44,9 @@ Common configuration for all C172R aircraft.
       <path>Aircraft/Generic/generic-autopilot.xml</path>
     </autopilot>
     <electrical>
-      <path>Aircraft/c172r/c172-electrical.xml</path>
+      <!-- null electrical system path here so we can use a nasal based -->
+      <!-- model defined later in the nasal section of this file. -->
+      <path></path>
     </electrical>
   </systems>
 
@@ -107,4 +109,10 @@ Common configuration for all C172R aircraft.
   </engine>
  </engines>
   
+ <nasal>
+  <electrical>
+   <file>Aircraft/c172/c172-electrical.nas</file>
+  </electrical>
+ </nasal>
+
 </PropertyList>
