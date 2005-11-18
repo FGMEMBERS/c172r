@@ -10,7 +10,7 @@ Common configuration for all C172R aircraft.
  <sim>
   <description>Cessna 172R</description>
   <author>Tony Peden (FDM), David Megginson (3D Models), John Check (2D Instruments)</author>
-  <status>aerly-production</status>
+  <status>early-production</status>
 
   <flight-model archive="y">jsb</flight-model>
   <aero archive="y">c172r</aero>
