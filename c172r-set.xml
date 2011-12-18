@@ -111,7 +111,7 @@ Common configuration for all C172R aircraft.
   
  <nasal>
   <electrical>
-   <file>Aircraft/c172/c172-electrical.nas</file>
+   <file>Aircraft/c172r/c172-electrical.nas</file>
   </electrical>
  </nasal>
 
