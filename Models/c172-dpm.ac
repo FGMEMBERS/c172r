@@ -4,7 +4,7 @@ OBJECT world
 kids 33
 OBJECT poly
 name "Compass"
-texture "/home/david/src/blender/c172-02.rgb"
+texture "c172-02.png"
 numvert 8
 -0.086248 0.106195 -0.028776
 -0.092021 0.06526 -0.028776
@@ -53,7 +53,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Cabin"
-texture "/home/david/src/blender/c172-02.rgb"
+texture "c172-02.png"
 numvert 112
 1.510694 0.250066 -0.554346
 1.510693 0.250066 0.552795
@@ -956,7 +956,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Hub"
-texture "/home/david/src/blender/c172-01.rgb"
+texture "c172-01.png"
 numvert 7
 -1.56593 -0.177069 -0.08468
 -1.56593 -0.292745 -0.115676
@@ -1005,7 +1005,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Wings"
-texture "/home/david/src/blender/c172-01.rgb"
+texture "c172-01.png"
 numvert 86
 0.200347 0.276198 -0.000545
 1.454477 0.240943 -0.61528
@@ -1615,7 +1615,7 @@ refs 2
 kids 0
 OBJECT poly
 name "LeftWheel"
-texture "/home/david/src/blender/c172-01.rgb"
+texture "c172-01.png"
 numvert 42
 0.873066 -1.339626 1.14736
 0.841583 -1.39346 1.138677
@@ -1914,7 +1914,7 @@ refs 4
 kids 0
 OBJECT poly
 name "RightHTail"
-texture "/home/david/src/blender/c172-01.rgb"
+texture "c172-01.png"
 numvert 8
 4.714366 -0.442917 -1.703066
 4.392193 -0.442917 -0.197892
@@ -1968,7 +1968,7 @@ refs 2
 kids 0
 OBJECT poly
 name "RightElevator"
-texture "/home/david/src/blender/c172-01.rgb"
+texture "c172-01.png"
 numvert 11
 4.74691 -0.411677 -1.845935
 4.715241 -0.406136 -1.706568
@@ -2046,7 +2046,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Propeller"
-texture "/home/david/src/blender/c172-01.rgb"
+texture "c172-01.png"
 numvert 20
 -1.715715 -0.284107 0.964259
 -1.712117 -0.31373 0.486332
@@ -2288,7 +2288,7 @@ refs 3
 kids 0
 OBJECT poly
 name "NoseWheel"
-texture "/home/david/src/blender/c172-01.rgb"
+texture "c172-01.png"
 numvert 42
 -0.706724 -1.283193 -0.026885
 -0.738207 -1.337722 -0.026605
@@ -2587,7 +2587,7 @@ refs 4
 kids 0
 OBJECT poly
 name "RightWheel"
-texture "/home/david/src/blender/c172-01.rgb"
+texture "c172-01.png"
 numvert 42
 0.873066 -1.339626 -1.137164
 0.841583 -1.39346 -1.128481
@@ -2886,7 +2886,7 @@ refs 4
 kids 0
 OBJECT poly
 name "LeftFlap"
-texture "/home/david/src/blender/c172-01.rgb"
+texture "c172-01.png"
 numvert 6
 1.128977 0.272776 0.592308
 1.122361 0.335079 2.536389
@@ -2917,7 +2917,7 @@ refs 2
 kids 0
 OBJECT poly
 name "RightFlap"
-texture "/home/david/src/blender/c172-01.rgb"
+texture "c172-01.png"
 numvert 6
 1.119281 0.272984 -0.608169
 1.122385 0.335273 -2.532369
@@ -3012,7 +3012,7 @@ refs 4
 kids 0
 OBJECT poly
 name "LeftHTail"
-texture "/home/david/src/blender/c172-01.rgb"
+texture "c172-01.png"
 numvert 8
 4.714366 -0.442917 1.703067
 4.392193 -0.442917 0.197894
@@ -3066,7 +3066,7 @@ refs 2
 kids 0
 OBJECT poly
 name "LeftElevator"
-texture "/home/david/src/blender/c172-01.rgb"
+texture "c172-01.png"
 numvert 11
 4.755964 -0.411677 1.845937
 4.715241 -0.406136 1.706569
@@ -3144,7 +3144,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Rudder"
-texture "/home/david/src/blender/c172-01.rgb"
+texture "c172-01.png"
 numvert 6
 5.747768 -0.333675 -0.005603
 6.610207 0.972386 0.007051
@@ -3189,7 +3189,7 @@ refs 3
 kids 0
 OBJECT poly
 name "VTail"
-texture "/home/david/src/blender/c172-01.rgb"
+texture "c172-01.png"
 numvert 12
 5.156047 -0.314634 0.024627
 4.241778 -0.042333 0.037161
@@ -3300,7 +3300,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Pedal.4"
-texture "/home/david/src/blender/c172-02.rgb"
+texture "c172-02.png"
 numvert 8
 -0.068328 -0.897442 -0.421007
 -0.068328 -0.897442 -0.290568
@@ -3349,7 +3349,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Pedal.3"
-texture "/home/david/src/blender/c172-02.rgb"
+texture "c172-02.png"
 numvert 8
 -0.068328 -0.897442 -0.249827
 -0.068328 -0.897442 -0.119387
@@ -3398,7 +3398,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Pedal.2"
-texture "/home/david/src/blender/c172-02.rgb"
+texture "c172-02.png"
 numvert 8
 -0.068328 -0.897442 0.136169
 -0.068328 -0.897442 0.266609
@@ -3447,7 +3447,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Pedal.1"
-texture "/home/david/src/blender/c172-02.rgb"
+texture "c172-02.png"
 numvert 8
 -0.068328 -0.897442 0.310707
 -0.068328 -0.897442 0.441146
@@ -3496,7 +3496,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Mixture"
-texture "/home/david/src/blender/c172-02.rgb"
+texture "c172-02.png"
 numvert 22
 -0.016224 -0.402701 -0.084707
 -0.016224 -0.417637 -0.090894
@@ -3653,7 +3653,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Throttle"
-texture "/home/david/src/blender/c172-02.rgb"
+texture "c172-02.png"
 numvert 22
 -0.016224 -0.402701 -0.000729
 -0.016224 -0.417637 -0.006916
@@ -3810,7 +3810,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Yoke.2"
-texture "/home/david/src/blender/c172-02.rgb"
+texture "c172-02.png"
 numvert 42
 0.040138 -0.295791 -0.313641
 0.040139 -0.295807 -0.401421
@@ -4082,7 +4082,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Yoke.1"
-texture "/home/david/src/blender/c172-02.rgb"
+texture "c172-02.png"
 numvert 42
 0.040138 -0.295791 0.203197
 0.040139 -0.295807 0.115417
@@ -4354,7 +4354,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Pedestal"
-texture "/home/david/src/blender/c172-02.rgb"
+texture "c172-02.png"
 numvert 16
 0.168801 -0.890271 -0.087802
 0.168801 -0.890271 0.105964
@@ -4483,7 +4483,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Seat.1"
-texture "/home/david/src/blender/c172-02.rgb"
+texture "c172-02.png"
 numvert 32
 0.510956 -0.750286 0.477226
 0.190073 -0.750968 0.477226
@@ -4717,7 +4717,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Seat.3"
-texture "/home/david/src/blender/c172-02.rgb"
+texture "c172-02.png"
 numvert 32
 1.176925 -0.750286 0.477226
 0.856042 -0.750968 0.477226
@@ -4951,7 +4951,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Seat.4"
-texture "/home/david/src/blender/c172-02.rgb"
+texture "c172-02.png"
 numvert 32
 1.176925 -0.750286 -0.013896
 0.856042 -0.750968 -0.013896
@@ -5185,7 +5185,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Seat.2"
-texture "/home/david/src/blender/c172-02.rgb"
+texture "c172-02.png"
 numvert 32
 0.510956 -0.750286 -0.013896
 0.190073 -0.750968 -0.013896
@@ -5419,7 +5419,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Fuselage"
-texture "/home/david/src/blender/c172-01.rgb"
+texture "c172-01.png"
 numvert 95
 1.512592 0.291713 -0.571926
 1.512592 0.291713 0.570836
@@ -6248,7 +6248,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Propeller.2"
-texture "/home/david/src/blender/c172-01.rgb"
+texture "c172-01.png"
 numvert 24
 -1.716161 0.450543 -0.696032
 -1.716161 0.009276 -0.950797
